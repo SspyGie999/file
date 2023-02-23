@@ -1,3 +1,4 @@
+# .gitignore #
 # code by FILE #
 #Cracking File Methode#
 
